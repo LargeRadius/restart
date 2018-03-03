@@ -25,5 +25,5 @@ Some example APIs based on `RESTArt`.
 ## APIs
 
 1. [Todo](todo)
-2. [Trello](trello)
+2. [Trelxlo](trello)
 3. [Blog](blog)
