@@ -12,7 +12,9 @@ Some example APIs based on `RESTArt`.
     ```
 
 2. Download examples
-
+    ```
+    $ a
+    ```
     ```
     $ cd /tmp
     $ git clone https://github.com/RussellLuo/restart.git
